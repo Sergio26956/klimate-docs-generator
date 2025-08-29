@@ -1,0 +1,8 @@
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar documentos generados para evitar subirlos por error
+Contrato_Klimate.docx
+Factura_Klimate.docx
